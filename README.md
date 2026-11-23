@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://duplicheck-nlp.streamlit.app/)
 # 🔍 DupliCheck – Text Similarity & Duplicate Question Detection
 NLP Capstone – Project 5. Compares two questions/sentences and decides if they are **Duplicate**, **Similar** or **Different**.
 
