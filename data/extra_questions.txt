@@ -1,0 +1,20 @@
+What are the applications of NLP?
+How can NLP be used in real-world projects?
+What are some NLP-based project ideas for beginners?
+How do you implement NLP in Python?
+What are the applications of machine learning in NLP?
+What is natural language processing?
+How do I start learning natural language processing?
+What is the difference between stemming and lemmatization?
+What is TF-IDF and how does it work?
+What is Word2Vec and how is it trained?
+How does sentiment analysis work?
+What is tokenization in NLP?
+What is named entity recognition?
+How do chatbots use NLP?
+What is the difference between NLP and machine learning?
+How do transformers work in NLP?
+What is BERT and why is it important?
+How do I build a text classification model?
+What are word embeddings?
+How can I detect duplicate questions using machine learning?
